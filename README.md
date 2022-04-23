@@ -6,7 +6,7 @@
 
 <p align = center>
   
-#### 🛠My Skills<br>
+#### 🛠 My Skills<br>
   
   <br>
 <img
@@ -22,7 +22,7 @@
 
 <div align = center>
   
-#### 💻My Stats<br>
+#### 💻 My Stats<br>
   
 <br>  
   
