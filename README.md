@@ -1,7 +1,7 @@
 
 <div align = center>
   
-### Hello I'm iOS developer Minjae 👋
+### Hello I'm iOS developer Minjae 💪
 ---
 
 <p align = center>
